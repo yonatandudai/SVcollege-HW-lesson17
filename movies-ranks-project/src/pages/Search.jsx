@@ -46,7 +46,7 @@ export default function SearchMovie({ setView }) {
         <div className="flex w-full justify-between p-8 ">
 
             {/* 🔹 Search Section (Right Side) */}
-            <div className="absolute top-73 right-0 h-190 w-[380px] border-l-2 border-black p-4 overflow-y-auto">
+            <div className="absolute top-73 right-0 h-180 w-[380px] border-l-2 border-black p-4 overflow-y-auto">
                 <input
                     type="text" 
                     placeholder="Movie name" 
